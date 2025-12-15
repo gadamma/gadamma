@@ -1,10 +1,15 @@
 ## Hi, nice to meet you! My name is Gaby Adamma.
 I am currently a student at Seattle University pursuing my Masters of Science in Business Analytics. My background is in hospitality business management, and I am hoping to combine what I am learning with my passion for people and stories. 
 
-##🔭Skills
+🔭 #Skills
   - SQL
   - Python
   - Excel and Google Sheets
+
+⚡ Interests
+  - Storytelling
+  - Teams
+  - Customer experience
 
 <!--
 **gadamma/gadamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
