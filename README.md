@@ -4,7 +4,7 @@ I am currently a student at Seattle University pursuing my Masters of Science in
 ## 🔭 Skills
   - SQL
   - Python
-  - Excel and Google Sheets
+  - Microsoft Excel and Google Sheets
 
 ## ⚡ Interests
   - Storytelling
