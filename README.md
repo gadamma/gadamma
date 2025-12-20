@@ -12,7 +12,7 @@ I am currently a student at Seattle University pursuing my Masters of Science in
   - Customer experience
 
 ## 🌱 Portfolio
-- SQL ([VGSales](https://github.com/gadamma/VGSales))
+- SQL Basic Queries ([VGSales](https://github.com/gadamma/VGSales))
 - 
 
 <!--
