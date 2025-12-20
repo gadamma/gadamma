@@ -11,6 +11,10 @@ I am currently a student at Seattle University pursuing my Masters of Science in
   - Teams
   - Customer experience
 
+## 🌱 Portfolio
+- SQL ([VGSales](https://github.com/gadamma/VGSales))
+- 
+
 <!--
 **gadamma/gadamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
