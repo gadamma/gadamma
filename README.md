@@ -13,7 +13,7 @@ I am currently a student at Seattle University pursuing my Masters of Science in
 
 ## 🌱 Portfolio
 - SQL Basic Queries ([VGSales](https://github.com/gadamma/VGSales))
-- 
+- SQL 8 Week Challenge 1 ([Danny's Diner](https://github.com/gadamma/DannysDiner))
 
 <!--
 **gadamma/gadamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
