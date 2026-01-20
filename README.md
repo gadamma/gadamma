@@ -4,6 +4,7 @@ I am currently a student at Seattle University pursuing my Masters of Science in
 ## 🔭 Skills
   - SQL
   - Python
+  - R
   - Microsoft Excel and Google Sheets
   - Tableau
 
