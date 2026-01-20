@@ -13,7 +13,7 @@ I am currently a student at Seattle University pursuing my Masters of Science in
   - Customer experience
 
 ## 🌱 Portfolio
-- SQL Basic Queries ([VGSales](https://github.com/gadamma/VGSales))
+- SQL Basic Queries and Tableau Visualization ([VGSales](https://github.com/gadamma/VGSales))
 - SQL 8 Week Challenge 1 ([Danny's Diner](https://github.com/gadamma/DannysDiner))
 
 <!--
