@@ -5,6 +5,7 @@ I am currently a student at Seattle University pursuing my Masters of Science in
   - SQL
   - Python
   - Microsoft Excel and Google Sheets
+  - Tableau
 
 ## ⚡ Interests
   - Storytelling
