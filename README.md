@@ -14,9 +14,10 @@ I am currently a student at Seattle University pursuing my Masters of Science in
   - Customer experience
 
 ## 🌱 Portfolio
-- SQL Basic Queries and Tableau Visualization ([VGSales](https://github.com/gadamma/VGSales))
 - SQL 8 Week Challenge 1 ([Danny's Diner](https://github.com/gadamma/DannysDiner))
+- - SQL Basic Queries and Tableau Visualization ([VGSales](https://github.com/gadamma/VGSales))
 - Tableau TidyTuesday ([Cars in Qatar](https://github.com/gadamma/tidytuesday))
+- R Sales Analysis and Data Exploration ([Walmart Sales](https://github.com/gadamma/Data-Exploration))
 
 <!--
 **gadamma/gadamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
